@@ -69,7 +69,7 @@ var config_data = `
       "code": "fpu",
       "type": "bool"
     },
-    { "name": "Autos",
+    { "name": "How Many Autonomous Programs? Can you Score From Any Position?",
       "code": "aut",
       "type": "text",
       "size": 20,
