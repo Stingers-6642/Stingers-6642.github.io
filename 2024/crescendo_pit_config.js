@@ -75,7 +75,7 @@ var config_data = `
       "size": 20,
       "maxSize": 250
     },
-    { "name": "Scouting Method /<br>Program (ScoutingPASS?)",
+    { "name": "Did Your Drive Team Change Since Last Event?",
       "code": "sct",
       "type": "text",
       "size": 20,
