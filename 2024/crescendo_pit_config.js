@@ -81,6 +81,12 @@ var config_data = `
       "size": 20,
       "maxSize": 250
     },
+    { "name": "Major Changes Since Last Event",
+      "code": "co",
+      "type": "text",
+      "size": 20,
+      "maxSize": 250
+    },
     { "name": "Comments",
       "code": "co",
       "type": "text",
