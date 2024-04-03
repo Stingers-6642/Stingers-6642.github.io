@@ -112,14 +112,12 @@ var config_data = `
       "code": "fs",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "o": "Onstage<br>",
-        "s": "Onstage (Spotlit)<br>",
-        "h": "Harmony<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "1": "Parked<br>",
+        "3": "Onstage<br>",
+        "4": "Harmony<br>",
+        "0": "Not attempted"
       },
-      "defaultValue": "x"
+      "defaultValue": "0"
     },
     { "name": "Note in Trap",
       "code": "nit",
