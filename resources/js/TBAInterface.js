@@ -32,7 +32,7 @@ function getTeams(eventCode) {
 function getSchedule(eventCode) {
 	if (authKey) {
 		var xmlhttp = new XMLHttpRequest();
-		var url = "https://www.thebluealliance.com/api/v3/event/2024milac/matches/simple";
+		var url = "https://www.thebluealliance.com/api/v3/event/2024mimtp/matches/simple";
 		xmlhttp.open("GET", url, true);
 		xmlhttp.setRequestHeader("X-TBA-Auth-Key", authKey);
 		xmlhttp.onreadystatechange = function() {
